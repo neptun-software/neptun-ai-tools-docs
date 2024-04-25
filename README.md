@@ -9,6 +9,8 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ### Installation
 
+* https://www.youtube.com/watch?v=8L3tGcYc774
+
 ```
 $ yarn
 ```
